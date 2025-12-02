@@ -15,10 +15,10 @@ const getBasePath = () => {
 };
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-  description: 'Personal site and blog',
+  siteTitle: 'Kerpler跑步生涯',
+  siteUrl: '',
+  logo: 'https://yt3.googleusercontent.com/HbQtfqgKK6Pg6P4OQTyOoG5_qB2KnEMn4qRCdsAWURPKpK2ZrDsxiRUCRduZ7wrpfpDTwq5Z0w=s176-c-k-c0x00ffffff-no-rj-mo',
+  description: '个人网站和博客',
   navLinks: [
     {
       name: 'Summary',
@@ -26,7 +26,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Blog',
-      url: 'https://github.com/yihong0618/gitblog',
+      url: '',
     },
     {
       name: 'About',
